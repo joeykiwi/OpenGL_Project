@@ -1,3 +1,6 @@
+Using perspective view of OpenGL, I implemented simple 3-D graphic which is able to rotate 360 degree using hot keys
+
+-------------------------------------------------------------------------------
 Assignment #2 NAME:Jongwoo Kim UID:503-787-749
 
 Here is the list of interation
